@@ -1,0 +1,23 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  padding: 30px;
+}
+.heading {
+  color: #1e293b;
+  font-size: 30px;
+  margin-bottom: 20px;
+  align-self: center;
+}
+.main-heading {
+  color: #171f46;
+  font-size: 35px;
+  margin-bottom: 50px;
+  align-self: center;
+}
+.chrono-container {
+  width: 100%;
+  height: cover;
+  margin-top: 20px;
+}

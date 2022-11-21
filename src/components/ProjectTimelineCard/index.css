@@ -1,0 +1,28 @@
+.image {
+  width: 300px;
+}
+.top-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  font-size: 30px;
+}
+.duration-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.icon {
+  width: 30px;
+}
+.duration {
+  font-size: 15px;
+}
+.description {
+  font-size: 20px;
+}
+.link {
+  font-size: 18px;
+}

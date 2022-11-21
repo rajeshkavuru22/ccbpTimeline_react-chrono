@@ -1,0 +1,36 @@
+.top-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  font-size: 30px;
+}
+.duration-container {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  width: 30px;
+}
+.duration {
+  font-size: 15px;
+}
+.description {
+  font-size: 20px;
+}
+.tags-list {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.tag-item {
+  background-color: #e8dfdd;
+  padding: 8px;
+  border-radius: 8px;
+  margin-right: 12px;
+  margin-bottom: 12px;
+}
